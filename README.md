@@ -12,9 +12,9 @@ The Result is CAR trends. (e.g. CAR, Figure)
 
 ## Getting Started
 1.Clone the repository.
-`
+```
 git clone 
-`
+```
 2.Ensure that the environment meets the software's dependency requirements
 ```
 pip install -r requirements.txt
